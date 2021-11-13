@@ -34,3 +34,13 @@
 1. Formula for calculating the Revenue column
 
    ```([stays_in_week_nights] + [stays_in_weekend_nights]) * ([adr]) * ([1-discount])```
+
+
+# Preview of Dashboard : 
+
+
+![Screenshot (20)](https://user-images.githubusercontent.com/51748060/141612696-f4f01aae-be6c-4093-b72a-f0d0e303fca8.jpg)
+
+
+
+
