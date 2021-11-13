@@ -16,7 +16,7 @@
 
 4. Show the complete record including all the years (2020,2019,2018) also including the market segment and meal costs
    
-   ```with hotels as
+        with hotels as
        (select * from dbo.[2020]
         union 
         select * from dbo.[2019]
